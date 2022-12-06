@@ -6,3 +6,4 @@ qns:qualification
 ans:b.tech
 Qns:birth
 Ans:punganur
+ans
